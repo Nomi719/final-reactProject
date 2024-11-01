@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Slider.scss";
+// import "./Slider.scss";
 import {sliderImages} from '../utilis/images';
 
 const Slider = () => {
